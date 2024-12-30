@@ -1,4 +1,4 @@
-#Politique de Confidentialité
+##Politique de Confidentialité
 
 Date de mise à jour : 30 décembre 2024
 
