@@ -14,6 +14,7 @@ Données de compte Google ou Apple lors de l'inscription :
 Nom
 Adresse e-mail
 Photo de profil (si disponible).
+
 *b. Informations liées aux paiements*
 
 Données nécessaires pour traiter vos paiements via FlexPay :
