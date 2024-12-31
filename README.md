@@ -20,6 +20,7 @@ Photo de profil (si disponible).
 Données nécessaires pour traiter vos paiements via FlexPay :
 Identifiant FlexPay.
 Historique des transactions effectuées dans l'application.
+
 *c. Informations techniques*
 
 Type d’appareil.
