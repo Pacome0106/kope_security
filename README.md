@@ -9,18 +9,22 @@ Bienvenue sur Kope, votre application mobile de e-commerce. Nous respectons votr
 Nous collectons les données suivantes lorsque vous utilisez notre application :
 
 *a. Informations personnelles*
+
 Données de compte Google ou Apple lors de l'inscription :
 Nom
 Adresse e-mail
 Photo de profil (si disponible).
 *b. Informations liées aux paiements*
+
 Données nécessaires pour traiter vos paiements via FlexPay :
 Identifiant FlexPay.
 Historique des transactions effectuées dans l'application.
 *c. Informations techniques*
+
 Type d’appareil.
 Version du système d’exploitation.
 Données d’utilisation pour améliorer la performance de l’application.
+
 **2. Utilisation des informations**
 
 Les données collectées sont utilisées pour :
@@ -29,6 +33,7 @@ Créer et gérer votre compte utilisateur.
 Traiter vos commandes et paiements via FlexPay.
 Vous envoyer des notifications liées à vos achats ou à des mises à jour importantes de l’application.
 Améliorer les fonctionnalités et l’expérience utilisateur de l’application.
+
 **3. Partage des données**
 
 Nous partageons vos données uniquement avec :
@@ -45,6 +50,7 @@ Nous mettons en œuvre des mesures de sécurité pour protéger vos données per
 Le chiffrement des données sensibles.
 Un accès limité aux données aux seules personnes autorisées.
 Une surveillance continue pour prévenir les accès non autorisés.
+
 **5. Vos droits**
 
 Vous avez le droit de :
